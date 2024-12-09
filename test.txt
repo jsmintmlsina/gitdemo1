@@ -1,4 +1,4 @@
-this is another git demo.
+this is jasmine.
 this is jasmine again.
 this is another line.
 this is also another line.
